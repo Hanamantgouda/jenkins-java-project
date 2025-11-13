@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>HARSHIT DYAVANAL</h2>
+      <h2>HARSHIT 123456</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
