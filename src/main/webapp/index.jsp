@@ -13,15 +13,15 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>HARSHIT DYAVANAL</h2>
+      <h2>VINAY</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Enter email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>Enter Password</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
